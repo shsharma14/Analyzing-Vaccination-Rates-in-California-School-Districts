@@ -1,4 +1,5 @@
-# IST772
+# Analyzing Vaccination Rates in California School Districts
+
 Conducted the necessary analyses of vaccination rates in California school districts and compared them to the vaccination rates in the US in the past years. Using this study, we might be able to improve the reporting rates and the vaccination rates of the districts by finding out the factors directly affecting the vaccination rate.
 
 • Used RStudio to perform data cleaning, data preprocessing and exploratory data analysis with the help
